@@ -23,8 +23,6 @@ int main() {
 }
 
 
-// Sort a vector
-// Implement a function to sort a std::vector<int> in ascending order using std::sort. give me simple solution 
 
 #include <iostream>
 #include <vector>
